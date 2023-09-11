@@ -26,5 +26,5 @@ The Nashville Housing Dataset is a comprehensive collection of housing data in N
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine.
 2. Install SSMS from the official Microsoft website.
-3. Import the "Nashville Housing Daya.csv" file into the local machine using SSMS.
+3. Import the "Nashville Housing Data.csv" file into the local machine using SSMS.
 4. Run the "Data Cleaning.sql" sql script through SSMS.
